@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+# Author: Fayas (https://github.com/mehtaarvi) (@FOREVER_ANGEL_0)
 
 import os
 import requests
@@ -22,12 +22,12 @@ I am a google search bot.
 
 > `I can search from google. Use me in inline.`
 
-Made by @FayasNoushad"""
+Made by [◥🇶🆄🄴⃝🄴⃝🇳◤](https://t.me/FOREVER_ANGEL_0)"""
 
 JOIN_BUTTON = [
     InlineKeyboardButton(
         text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        url='https://t.me/ABOUT_Arvi'
     )
 ]
 
